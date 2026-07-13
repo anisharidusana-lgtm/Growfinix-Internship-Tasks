@@ -1,7 +1,7 @@
 # Growfinix Internship Tasks
 
 ## Candidate Details
-- Name: (Unga Name)
+- Name: (A.ieswarya)
 - Internship: AI Internship
 
 ## Completed Tasks
