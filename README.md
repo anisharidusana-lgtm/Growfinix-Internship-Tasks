@@ -25,6 +25,12 @@ The generated AI portrait has been uploaded as image_1783914345568.jpeg.
 
 - [x] Task 2 - AI Data Extraction
 
+## Completed Tasks
+
+- [x] Task 1 - Advanced Prompt Engineering for Visuals
+- [x] Task 2 - AI Data Extraction
+- [ ] Task 3 - Sentiment & Urgency Analyzer
+
 ### Objective
 Convert unstructured customer information into a structured JSON format.
 
