@@ -23,7 +23,7 @@ Create an ultra-realistic DSLR portrait of a young Indian woman wearing a navy b
 ### Output
 The generated AI portrait has been uploaded as image_1783914345568.jpeg.
 
-## Task 2 - AI Data Extraction
+- [x] Task 2 - AI Data Extraction
 
 ### Objective
 Convert unstructured customer information into a structured JSON format.
