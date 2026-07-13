@@ -44,4 +44,4 @@ Issue: Screen is flickering after update.
   "city": "Chennai",
   "product": "Laptop",
   "issue": "Screen is flickering after update."
-}
+}.
