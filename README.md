@@ -12,7 +12,7 @@
 - [ ] Task 5 - Frontend AI Chat Interface# Growfinix-Internship-Tasks
 
 
-## Task 1 - Advanced Prompt Engineering for Visuals
+- [x] Task 1 - Advanced Prompt Engineering for Visuals
 
 ### Objective
 Generate an ultra-realistic professional portrait using an AI image generation model.
