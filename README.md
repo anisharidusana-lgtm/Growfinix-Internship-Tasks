@@ -7,7 +7,7 @@
 ## Completed Tasks
 - [x] Task 1 - Advanced Prompt Engineering for Visuals
 - [x] Task 2 - AI Data Extraction
-- [ ] Task 3 - Sentiment & Urgency Analyzer
+- [x] Task 3 - Sentiment & Urgency Analyzer
 - [ ] Task 4 - Text to Speech
 - [ ] Task 5 - Frontend AI Chat Interface# 
 
@@ -48,5 +48,24 @@ Issue: Screen is flickering after update.
   "city": "Chennai",
   "product": "Laptop",
   "issue": "Screen is flickering after update."
+}
+```
+## Task 3 - Sentiment & Urgency Analyzer
+
+### Objective
+Analyze a customer message and identify the sentiment, urgency, and main issue.
+
+### Input
+
+Customer Message:
+I ordered a laptop last week. It has not been delivered yet, and I need it urgently for my office work. Please resolve this as soon as possible.
+
+### Output
+
+```json
+{
+  "sentiment": "Negative",
+  "urgency": "High",
+  "main_issue": "Laptop delivery is delayed."
 }
 ```
